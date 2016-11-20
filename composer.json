@@ -1,0 +1,12 @@
+{
+    "name": "danjohnson95/php-socket-emitter",
+    "description": "Sends data over a TCP socket in an efficient manner",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dan Johnson",
+            "email": "dan@danj.eu"
+        }
+    ],
+    "require": {}
+}
